@@ -14,13 +14,11 @@ a:hover {
 	color: rgba(255,255,255,1.00);
 	background-color: #152A65;
 }
-
-
 /* New Updates banner*/
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-image: url("../../Galaxy.gif");
+	background-image: url("../../ecommerceassets/images/Galaxy.gif");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: #010614;
@@ -29,33 +27,25 @@ a:hover {
 	padding-top: 57px;
 	padding-bottom: 57px;
 }
-/* Main content of the site */
 #content {
 	clear: both;
 	overflow: auto;
 	padding-top: 29px;
 }
-
-/* main content of the site */
 #content .mainContent {
 	float: left;
 	width: 70%;
 	text-align: center;
 	padding-left: 4%;
 }
-
-/* Whole page content */
 #mainWrapper {
 	width: 80%;
 	padding-left: 10%;
 }
-
-/* Product rows for catalog */
 #content .mainContent .productRow {
 	overflow: auto;
 	color: rgba(146,146,146,1.00);
 }
-/* Each product Information in the catalog */
 .mainContent .productRow .productInfo {
 	float: left;
 	padding-left: 5%;
@@ -63,7 +53,7 @@ a:hover {
 	width: 22%;
 }
 
-/* Buy button for products in catalog */
+/* view buttons */
 .productRow .productInfo .buyButton 
 	{
 	position: relative;
