@@ -1,5 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
+body {
+  background-color: rgba(146,146,146,1.00);
+}
 
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
